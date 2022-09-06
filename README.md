@@ -1,1 +1,1 @@
-# philosophers
+# linked-lists-C-lang-

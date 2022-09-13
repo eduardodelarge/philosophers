@@ -6,7 +6,7 @@
 /*   By: caeduard <caeduard@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/12 09:53:30 by caeduard          #+#    #+#             */
-/*   Updated: 2022/09/13 01:15:04 by caeduard         ###   ########.fr       */
+/*   Updated: 2022/09/13 01:16:35 by caeduard         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,4 +36,5 @@ int initialize_philos(t_args *args, int ac, char **av)
 int main(int ac, char **av)
 {
 	// init main
+	
 }
